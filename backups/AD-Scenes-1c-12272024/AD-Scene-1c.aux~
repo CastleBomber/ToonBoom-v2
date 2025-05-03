@@ -1,0 +1,58 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="AD-Scene-1c" Modified="2024-12-26 16:04:54" ID="1">
+ <Element Name="angel-knight" ID="1" Folder="angel-knight">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-indian" ID="8" Folder="angel-indian">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-white-dress" ID="9" Folder="angel-white-dress">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-bow-and-arrow" ID="10" Folder="angel-bow-and-arrow">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="bg-1" ID="11" Folder="bg-1">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="bg-2" ID="12" Folder="bg-2">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-bible" ID="14" Folder="angel-bible">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-long-black-hair" ID="15" Folder="angel-long-black-hair">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-muslim" ID="16" Folder="angel-muslim">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-latino" ID="18" Folder="angel-latino">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-turtle" ID="19" Folder="angel-turtle">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-black-woman" ID="20" Folder="angel-black-woman">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-eagle" ID="21" Folder="angel-eagle">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-black-male" ID="22" Folder="angel-black-male">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-ox" ID="23" Folder="angel-ox">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-lion" ID="25" Folder="angel-lion">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-beast-man" ID="27" Folder="angel-beast-man">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="angel-dragon" ID="29" Folder="angel-dragon">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+ </Element>
+</SceneVersion>

@@ -1,0 +1,78 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="AD-Scene-0" Modified="2024-10-28 01:44:31" ID="1">
+ <Element Folder="angel-knight" ID="1" Name="angel-knight">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-indian" ID="8" Name="angel-indian">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-white-dress" ID="9" Name="angel-white-dress">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-bow-and-arrow" ID="10" Name="angel-bow-and-arrow">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="bg-1" ID="11" Name="bg-1">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="bg-2" ID="12" Name="bg-2">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-bible" ID="14" Name="angel-bible">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-long-black-hair" ID="15" Name="angel-long-black-hair">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-muslim" ID="16" Name="angel-muslim">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-latino" ID="18" Name="angel-latino">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-turtle" ID="19" Name="angel-turtle">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-black-woman" ID="20" Name="angel-black-woman">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-eagle" ID="21" Name="angel-eagle">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-black-male" ID="22" Name="angel-black-male">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-ox" ID="23" Name="angel-ox">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-lion" ID="25" Name="angel-lion">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-beast-man" ID="27" Name="angel-beast-man">
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="angel-dragon" ID="29" Name="angel-dragon">
+  <Drawing Version="1" Name="1" Key=""/>
+  <Drawing Version="1" Name="2" Key=""/>
+ </Element>
+ <Element Folder="angels-and-castle" ID="35" Name="angels-and-castle">
+  <Drawing Version="1" Name="castle" Key=""/>
+ </Element>
+ <Element Folder="castle-intro-2" ID="42" Name="castle-intro-2">
+  <Drawing Version="1" Name="castle" Key=""/>
+ </Element>
+ <Element Folder="castle-intro-3" ID="44" Name="castle-intro-3">
+  <Drawing Version="1" Name="castle" Key=""/>
+ </Element>
+ <Element Folder="castle-intro-1.45" ID="45" Name="castle-intro-1">
+  <Drawing Version="1" Name="castle" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
+ </Element>
+ <Element Folder="castle-intro-4" ID="47" Name="castle-intro-4">
+  <Drawing Version="1" Name="castle" Key=""/>
+ </Element>
+ <Element Folder="angel-dragon_2" ID="48" Name="angel-dragon_2">
+  <Drawing Version="1" Name="1" Key=""/>
+  <Drawing Version="1" Name="2" Key=""/>
+ </Element>
+</SceneVersion>
